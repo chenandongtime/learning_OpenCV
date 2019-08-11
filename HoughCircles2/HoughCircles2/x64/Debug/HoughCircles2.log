@@ -1,0 +1,5 @@
+﻿  houghMain.cpp
+e:\opencv\houghcircles2\houghcircles2\houghmain.cpp(18): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  e:\opencv\houghcircles2\houghcircles2\houghmain.cpp(18): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  e:\opencv\houghcircles2\houghcircles2\houghmain.cpp(18): note: 缺失的可变参数 1 为格式字符串“%s”所需
+  HoughCircles2.vcxproj -> E:\OpenCV\HoughCircles2\x64\Debug\HoughCircles2.exe
